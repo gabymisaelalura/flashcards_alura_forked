@@ -1,23 +1,40 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Profissoẽs',
+    'qual profisão cuida da alimentação?',
+    'nutrição'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'profissões',
+    'qual profisão Ensina e transmite conhecimentos em diferentes áreas?',
+    'professor'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'profissões' ,
+    'qual profisão projetar e construir estruturas e sistemas?',
+    'engenheiro'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'profissões',
+    'qual profisão Cria e gerencia seus próprios negócios?',
+    'empreendedorismo'
 )
+
+criaCartao(
+    'profissões',
+    'Atua na área da saúde, diagnosticando e tratando doenças',
+    'médico',
+
+)
+criaCartao(
+    'profissões',
+    'Gerencia empresas e organizações',
+    'administrador',
+
+
+    criaCartao(
+    'profissões',
+    'Gerencia empresas e organizações',
+    'administrador',
